@@ -1,0 +1,134 @@
+/* Your code goes here */
+
+/*.container{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items:  flex-start;
+border: 1px solid rebeccapurple;
+height: 200px;
+width: 500px;
+}*/
+
+body {
+    padding : 10px ;
+    
+  }
+
+
+  .Rectangle-4 {
+    height: 760px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.14);
+    background-color: var(--white);
+  }
+  .Rectangle-5 {
+    width: 1110px;
+    height: 125px;
+    background-color: #f9f9f9;
+  }
+  .Title-1 {
+    width: 66px;
+    height: 33px;
+    font-family: NotoSans;
+    font-size: 24px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+  }
+  .Active {
+    width: 52px;
+    height: 22px;
+    font-family: NotoSans;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #276c83;
+  }
+  .DELETED {
+    width: 70px;
+    height: 22px;
+    opacity: 0.7;
+    font-family: NotoSans;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #276c83;
+  }
+  #exTab1 .tab-content {
+    padding : 5px 15px;
+    padding-left: 65px;
+  }
+  #exTab2 .tab-content {
+    padding : 5px 15px;
+    padding-left: 65px;
+  }
+  .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+    color: #276c83 !important;
+    text-decoration: underline;
+    background-color: #ffffff !important;
+}
+.heading1{
+    padding: 30px 30px;
+    padding-bottom: 0px;
+}
+.heading1 span{ font-size: 20px;}
+.nav-pills{
+    padding: 5px;
+    padding-left: 50px !important;
+}
+.Rectangle-2 {
+
+  width: 100%;
+    height: 70px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.14);
+    background-color: var(--white);
+    padding-left: 15px !important;
+  }
+  .Title-1 {
+    width: 100px;
+    height: 40px;
+    font-family: NotoSans;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #000000;
+  }
+  .Title-2 {
+    width: 100px;
+    height: 40px;
+    font-family: NotoSans;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #007f72;
+  }
+  .Fill-3 {
+    width: 100px;
+    height: 40px;
+    background-color: #2a6d84;
+  }
+  
+
+
+  
+  
+  
+  
+  
+  
+  
